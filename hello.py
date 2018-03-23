@@ -1,2 +1,4 @@
 /usr/bin/env
-def hello
+def hello():
+    print("hello world")
+hello()
